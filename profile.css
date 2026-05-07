@@ -8,7 +8,7 @@ body {
   /*** 任意の色を設定 ***/
   background-color: #41516e;  /* 背景色 */
 
-  color: #333;                /* 文字色を濃いグレーに設定（読みやすさ重視） */
+  color: #13c4ff;                /* 文字色を濃いグレーに設定（読みやすさ重視） */
   line-height: 1.6;             /* 行間を少し広めにして読みやすくする */
   margin: 0;                    /* デフォルトのマージンをリセット */
   padding: 0;                   /* デフォルトのパディングをリセット */
@@ -22,7 +22,7 @@ body {
 
 header {
   /*** 任意の色を設定 ***/
-  background-color: #5262ac;  /* 背景色 */
+  background-color: rgb(201, 102, 108); /* 背景色 */
   color: white;               /* 文字色 */
 
   display: flex;                /* フレックスボックスで横並びにする */
@@ -47,7 +47,7 @@ header {
 }
 
 section {
-  background: rgb(119, 109, 192);      /* セクション背景色 */
+  background: rgb(83, 84, 124);      /* セクション背景色 */
   border: 1px solid #ddd; /* 枠線 */
   border-radius: 8px;       /* 少し角を丸める */
   padding: 15px;            /* 内部余白を追加 */
